@@ -3,7 +3,7 @@
     Tích hợp: Auto Sync, Auto Save Key, Anti-Spam
 ]]
 
-local Config_URL = "https://raw.githubusercontent.com/Bubu2k/config.txt/refs/heads/main/config.txt" 
+local Config_URL = "https://raw.githubusercontent.com/ThanhTrong2006/TT/refs/heads/main/config.txt" 
 local KeyFileName = "Beatsjx_PremiumKey.txt" -- Tên file lưu key cục bộ
 
 ---------------------------------------------------------
